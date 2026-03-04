@@ -7,8 +7,3 @@
 3. alt: Provides concise descriptive text for images used by screen readers and shown when images fail to load.
 4. viewport meta: Instructs the browser to size the layout to the device width and set the initial zoom for responsive rendering.
 5. <button> vs <a>: `button` triggers actions (form submit, JS); `a` navigates to URLs—use each for its semantic purpose.
-
-## Notes
-
-- Added `tasks.html` static prototype.
-- Kept self-test answers concise per instructions.
