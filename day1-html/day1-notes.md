@@ -16,6 +16,7 @@ Completed tasks and self-test answers for Day 1.
 - Each task is an `<article>` with `<h3>`, `<p>`, `<time datetime="YYYY-MM-DD">`, and `<details><summary>` for extra info.
 
 ---
+
 Generated on 2026-03-04.
 What is semantic HTML?
 Semantic HTML is the use of HTML elements that convey meaning about the content they contain. It helps to structure the content in a way that is meaningful to both humans and machines, improving accessibility and SEO. Examples of semantic HTML elements include <header>, <nav>, <main>, <article>, <section>, and <footer>.
