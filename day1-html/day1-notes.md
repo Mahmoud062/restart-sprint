@@ -110,3 +110,24 @@ Here is what those specific instructions are actually doing:
 - `width=device-width`: This tells the page to match the screen's width in "device-independent pixels." This allows the page to reflow content based on whether you're using an iPhone, a tablet, or a giant monitor.
 
 - `initial-scale=1.0`: This sets the zoom level when the page first loads. `1.0` means "no zoom" (a 1:1 relationship between CSS pixels and device-independent pixels).
+
+---
+
+## ===================================================================
+
+short of this
+
+Q1: Semantic HTML
+`Semantic HTML uses elements that convey meaning (e.g., <header>, <article>),` improving accessibility and SEO.
+
+Q2: `<section>` vs `<div>`
+`<section>` is semantic and groups thematically related content (usually with a heading); `<div>` is a generic container for styling or layout.
+
+Q3: Purpose of `alt`
+`Provides descriptive text for images used by screen readers and shown when images fail to load.`
+
+Q4: Viewport meta
+`Instructs the browser to size the layout to the device width and set initial zoom, enabling responsive design.`
+
+Q5: `<button>` vs `<a>`
+`<button>` performs actions (form submit, JS); `<a>` navigates to URLs. Use each for its semantic purpose to aid accessibility.`
